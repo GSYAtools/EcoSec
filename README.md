@@ -1,3 +1,6 @@
+
+![](img/cover.png)
+
 # EcoSec
 
 ## Introduction
